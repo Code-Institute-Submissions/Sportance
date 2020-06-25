@@ -31,6 +31,9 @@ This website is designed for a variety of users such as athletes, other Sport Ps
 * I want to experiment with different layouts and designs to see which is the most effective and inviting for the users.
 
 ### Wireframes
+
+The wireframes for this website where created using [Balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAjwltH3BRB6EiwAhj0IUBrAHe-2BiRjQmQGSO-FZIjoEjkckL_kVyJXd5ShGVwKqDaDMqKjvBoCQksQAvD_BwE)
+
 ![](images/wireframe3.png)
 ![](images/wireframe1.png)
 ![](images/wireframe2.png)
@@ -51,6 +54,9 @@ The colours for the website were chosen using [Coolor](https://coolors.co/3c1642
 * ![#086375](https://placehold.it/15/086375/000000?text=+) `#086375` - Blue Saphire
 
 * ![#1DD3B0](https://placehold.it/15/1DD3B0/000000?text=+) `#1DD3B0` - Carribean Green
+
+### Fonts 
+
 
 
 
