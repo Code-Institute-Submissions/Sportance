@@ -36,9 +36,19 @@ This website is designed for a variety of users such as athletes, other Sport Ps
 ![](images/wireframe2.png)
 
 ### Design 
-1. **Logo**
+1. **Logo** 
 
-The logo was created using ![Free Logo Maker](https://logomakr.com/) and was designed to be simple and effective. The aim was for the users to look at the logo and understand the purpose of the website and company straight away. The colors on the logo are inine with the color scheme that is shared below to create consistent branding. 
+The logo was created using [Free Logo Maker](https://logomakr.com) and was designed to be simple and effective. The aim was for the users to look at the logo and understand the purpose of the website and company straight away. The colors on the logo are inine with the color scheme that is shared below to create consistent branding. 
+
+![](images/SportanceLogo.png)
+
+2. **Colour Scheme**
+
+The colours for the website were chosen using [Coolor](https://coolors.co/3c1642-086375-1dd3b0-fffdfd-ffffff) and aim to keep the screen upbeat and refreshing for the users to view. The colours that were choosen are:
+
+* ![#3C1642](https://placehold.it/15/3C1642/000000?text=+)`#3C1642` - Russian Violet  
+
+`#086375`
 
 ## Features
 ---
