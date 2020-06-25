@@ -46,9 +46,13 @@ The logo was created using [Free Logo Maker](https://logomakr.com) and was desig
 
 The colours for the website were chosen using [Coolor](https://coolors.co/3c1642-086375-1dd3b0-fffdfd-ffffff) and aim to keep the screen upbeat and refreshing for the users to view. The colours that were choosen are:
 
-* ![#3C1642](https://placehold.it/15/3C1642/000000?text=+)`#3C1642` - Russian Violet  
+* ![#3C1642](https://placehold.it/15/3C1642/000000?text=+) `#3C1642` - Russian Violet  
 
-`#086375`
+* ![#086375](https://placehold.it/15/086375/000000?text=+) `#086375` - Blue Saphire
+
+* ![#1DD3B0](https://placehold.it/15/1DD3B0/000000?text=+) `#1DD3B0` - Carribean Green
+
+
 
 ## Features
 ---
