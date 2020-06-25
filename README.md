@@ -55,7 +55,9 @@ The colours for the website were chosen using [Coolor](https://coolors.co/3c1642
 
 * ![#1DD3B0](https://placehold.it/15/1DD3B0/000000?text=+) `#1DD3B0` - Carribean Green
 
-### Fonts 
+3. **Fonts**
+
+
 
 
 
