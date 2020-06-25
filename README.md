@@ -30,6 +30,9 @@ This website is designed for a variety of users such as athletes, other Sport Ps
 * I want to showcase my skills to future and potential employers.
 * I want to experiment with different layouts and designs to see which is the most effective and inviting for the users.
 
+### Wireframes
+![](images/wireframe.pdf)
+
 ## Features
 ---
 
