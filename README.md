@@ -35,6 +35,11 @@ This website is designed for a variety of users such as athletes, other Sport Ps
 ![](images/wireframe1.png)
 ![](images/wireframe2.png)
 
+### Design 
+1. **Logo**
+
+The logo was created using ![Free Logo Maker](https://logomakr.com/) and was designed to be simple and effective. The aim was for the users to look at the logo and understand the purpose of the website and company straight away. The colors on the logo are inine with the color scheme that is shared below to create consistent branding. 
+
 ## Features
 ---
 
