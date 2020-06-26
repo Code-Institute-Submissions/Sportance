@@ -42,9 +42,7 @@ The logo was created using [Free Logo Maker](https://logomakr.com) and was desig
 The colours for the website were chosen using [Coolor](https://coolors.co/3c1642-086375-1dd3b0-fffdfd-ffffff) and aim to keep the screen upbeat and refreshing for the users to view. The colours that were choosen are:
 
 * ![#3C1642](https://placehold.it/15/3C1642/000000?text=+) `#3C1642` - Russian Violet  
-
 * ![#086375](https://placehold.it/15/086375/000000?text=+) `#086375` - Blue Saphire
-
 * ![#1DD3B0](https://placehold.it/15/1DD3B0/000000?text=+) `#1DD3B0` - Carribean Green
 
 3. **Fonts**
@@ -69,28 +67,19 @@ The wireframes for this website where created using [Balsamiq](https://balsamiq.
 The features that were added to the project were designed to have a high level of usability.
 
 * The logo is wrapped in an anchor tag with the link to the Sportance page. This allows it to be used as a refresh for the page should the user need to.
-
 * The menu bar at the top will allow the users to easily navigate around the webpage should they chose not to scroll through the whole page to find the section they are looking for. 
-
 * A menu icon is used in the tablet and phone view so that is does not overcrowd the header and hero image.
-
 * A hero image was added to make the webpage inviting to the user and make the website self explanatory.
-
 * An About section was used to give the user all the information they need about the webpage and its purpose. A sports image was added to this section to keep in with the design of the rest of the webpage and make it more pleasing to view for the users.
-
 * A services section was used to allow the users to decide whether the services suit their needs and that could be of use to them. This section also allows other Sport Psychology professionals to view what they could potentially add to their services. Images of the types of services were added to tie in with the rest of the webpage.
-
 * A testimonials section was used to allow the users to see the previous work carried out by the Sport Psychology and again decide if they want to access the help on offer. Image of the athletes who have given a testimonial were added so the user could picture who was saying them.
-
 * A contact section was used to allow users to get in touch should they have any questions about the services or Sport Psychogy in general.
-
 * Within the footer are links to each section should the user wish to quickly navigate their way back to a certain section. There is also links to the social media pages that Sportance uses. 
 
 
 ### Features Left to Implement
 
 * A video library where users can access mediation materials that they can use at home. 
-
 * A useful links section that allows users to directly access useful information about Sport Psychology sourced on other websites.
 
 ## Technologies Used
@@ -98,21 +87,15 @@ The features that were added to the project were designed to have a high level o
 ### **Languages, Frameworks:**
 
 * HTML,CSS were the main languages used to create this single page website.
-
 * [Github](https://github.com/) was used to keep the repository and deloy the website.
-
 * [Gitpod](https://www.gitpod.io/) was the chosen IDE for the project. 
-
 * [Bootstrap Frameworks](https://getbootstrap.com/) were used to help structure the main body of the project. 
 
 ### **Tools Used**
 
 * [Google Fonts](https://fonts.google.com/specimen/Lato?sidebar.open&selection.family=Lato) was used to chose the fonts for the project.
-
 * [Coolors](https://coolors.co/3c1642-086375-1dd3b0-fffdfd-ffffff) was used to chose the colour scheme for the project.
-
 * [Balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAjwltH3BRB6EiwAhj0IUBrAHe-2BiRjQmQGSO-FZIjoEjkckL_kVyJXd5ShGVwKqDaDMqKjvBoCQksQAvD_BwE) was used to create the wireframes for the project.
-
 * [Free Logo Maker](https://logomakr.com) was used to create the free logo for the project.
 
 ## Testing
@@ -121,6 +104,26 @@ The features that were added to the project were designed to have a high level o
 
 ## Deployment
 ---
+
+The webpage was developed using Gitpod IDE and was commited and pushed to a Github repository. The steps below were used to deploy my webpage.
+
+1. Go to [Github](https://github.com/) 
+2. Search for [Ted-Williams/Sportance](https://github.com/Ted-Williams/Sportance)
+3. Select settings from the menu at the top of the page.
+4. Scroll down to GitHub Pages section.
+5. Click on the dropdown menu with in the source section and select master branch.
+6. Click save.
+
+The webpage can be found here: [Sportance](https://ted-williams.github.io/Sportance/.)
+
+To create a local respository, follow the steps below:
+
+1. Navigate to [Ted-Williams/Sportance](https://github.com/Ted-Williams/Sportance)
+2. Below the menu click Clone.
+3. Copy the URl using the clipboard to the righthand side.
+4. Open you preferred IDE for example Gitpod.
+5. Type git clone into the terminal and paste the respository URl.
+6. Click enter and the clone will be created. 
 
 
 
