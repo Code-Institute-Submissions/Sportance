@@ -66,11 +66,32 @@ The wireframes for this website where created using [Balsamiq](https://balsamiq.
  
 ### Existing Features
 
+The features that were added to the project were designed to have a high level of usability.
+
+* The logo is wrapped in an anchor tag with the link to the Sportance page. This allows it to be used as a refresh for the page should the user need to.
+
+* The menu bar at the top will allow the users to easily navigate around the webpage should they chose not to scroll through the whole page to find the section they are looking for. 
+
+* A menu icon is used in the tablet and phone view so that is does not overcrowd the header and hero image.
+
+* A hero image was added to make the webpage inviting to the user and make the website self explanatory.
+
+* An About section was used to give the user all the information they need about the webpage and its purpose. A sports image was added to this section to keep in with the design of the rest of the webpage and make it more pleasing to view for the users.
+
+* A services section was used to allow the users to decide whether the services suit their needs and that could be of use to them. This section also allows other Sport Psychology professionals to view what they could potentially add to their services. Images of the types of services were added to tie in with the rest of the webpage.
+
+* A testimonials section was used to allow the users to see the previous work carried out by the Sport Psychology and again decide if they want to access the help on offer. Image of the athletes who have given a testimonial were added so the user could picture who was saying them.
+
+* A contact section was used to allow users to get in touch should they have any questions about the services or Sport Psychogy in general.
+
+* Within the footer are links to each section should the user wish to quickly navigate their way back to a certain section. There is also links to the social media pages that Sportance uses. 
 
 
 ### Features Left to Implement
 
+* A video library where users can access mediation materials that they can use at home. 
 
+* A useful links section that allows users to directly access useful information about Sport Psychology sourced on other websites.
 
 ## Technologies Used
 ---
