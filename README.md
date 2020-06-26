@@ -30,14 +30,6 @@ This website is designed for a variety of users such as athletes, other Sport Ps
 * I want to showcase my skills to future and potential employers.
 * I want to experiment with different layouts and designs to see which is the most effective and inviting for the users.
 
-### Wireframes
-
-The wireframes for this website where created using [Balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAjwltH3BRB6EiwAhj0IUBrAHe-2BiRjQmQGSO-FZIjoEjkckL_kVyJXd5ShGVwKqDaDMqKjvBoCQksQAvD_BwE)
-
-![](images/wireframe3.png)
-![](images/wireframe1.png)
-![](images/wireframe2.png)
-
 ### Design 
 1. **Logo** 
 
@@ -57,10 +49,15 @@ The colours for the website were chosen using [Coolor](https://coolors.co/3c1642
 
 3. **Fonts**
 
+The website has the main font of Lato, which was chosen due to it readability for all users. It was chosen using [Google Fonts](https://fonts.google.com/specimen/Lato?sidebar.open&selection.family=Lato) and has a default of Sans Serif. 
 
+4. **Wireframes**
 
+The wireframes for this website where created using [Balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAjwltH3BRB6EiwAhj0IUBrAHe-2BiRjQmQGSO-FZIjoEjkckL_kVyJXd5ShGVwKqDaDMqKjvBoCQksQAvD_BwE)
 
-
+![](images/wireframe3.png)
+![](images/wireframe1.png)
+![](images/wireframe2.png)
 
 ## Features
 ---
@@ -77,8 +74,25 @@ The colours for the website were chosen using [Coolor](https://coolors.co/3c1642
 
 ## Technologies Used
 ---
+### **Languages, Frameworks:**
 
+* HTML,CSS were the main languages used to create this single page website.
 
+* [Github](https://github.com/) was used to keep the repository and deloy the website.
+
+* [Gitpod](https://www.gitpod.io/) was the chosen IDE for the project. 
+
+* [Bootstrap Frameworks](https://getbootstrap.com/) were used to help structure the main body of the project. 
+
+### **Tools Used**
+
+* [Google Fonts](https://fonts.google.com/specimen/Lato?sidebar.open&selection.family=Lato) was used to chose the fonts for the project.
+
+* [Coolors](https://coolors.co/3c1642-086375-1dd3b0-fffdfd-ffffff) was used to chose the colour scheme for the project.
+
+* [Balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAjwltH3BRB6EiwAhj0IUBrAHe-2BiRjQmQGSO-FZIjoEjkckL_kVyJXd5ShGVwKqDaDMqKjvBoCQksQAvD_BwE) was used to create the wireframes for the project.
+
+* [Free Logo Maker](https://logomakr.com) was used to create the free logo for the project.
 
 ## Testing
 ---
