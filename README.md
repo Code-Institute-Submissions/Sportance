@@ -3,7 +3,7 @@
 ## Introduction
 ---
 
-A website that is designed to bring Sports Psychology to life. Many people are still unaware that Sport Psychology exists and therefore have a lot of questions and want to know more. Sportance is designed to give every user the information that they need by answering the most common questions that get asked. It is a staic website that will give the users enough information to decide whether Sport Psychology is a tool for them or not. It is a safe space that users can easily navigate their way around in order to give them relevant and up to date information.
+A website that is designed to bring Sports Psychology to life through the business of Sportance. Many people are still unaware that Sport Psychology exists and therefore have a lot of questions and want to know more. Sportance is designed to give every user the information that they need by answering the most common questions that get asked. It is a staic website that will give the users enough information to decide whether Sport Psychology is a tool for them or not. It is a safe space that users can easily navigate their way around in order to give them relevant and up to date information.
  
 ## UX
 ---
@@ -136,3 +136,6 @@ The features that were added to the project were designed to have a high level o
 ### Acknowledgements
 
 
+
+
+ *This project is fictitous and was created for educational purposes as part of the Code Institute Milestone Project 1*
