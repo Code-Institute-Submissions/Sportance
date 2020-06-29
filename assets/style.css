@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap: 100,200,300,400,500,600,700');
+
+/*---------------Colours */
+
+header {
+    font-family: lato;
+    color: #777777;
+    font-size: 40px;
+}
