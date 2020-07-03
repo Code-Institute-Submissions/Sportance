@@ -5,7 +5,7 @@
 
 .navigation {
    background-color: #086375;
-   height: 130px;
+   height: 100px;
 }
 
 .title {
@@ -26,9 +26,8 @@ a:hover {
     text-transform: uppercase;
     font-family: "Lato", sans-serif;
     font-weight: 500;
-    line-height: 120px;
-    padding: 20px;
-    font-size: 50px; 
+    padding: 0;
+    font-size: 25px; 
 }
 
 
@@ -36,28 +35,39 @@ a:hover {
 
 .logo {
     height: auto;
-    width: 100px;
-    background-position: left;
-    margin-left: 15px;
-    margin-top: 15px;
-    padding: 0;
+    width: 70px;
+    margin-right: 20px;
+    margin-top: 0px;
+    padding-top: 10px;
 }
 
 .nav-link {
     font-family: "Lato", sans-serif;
     font-size: 25px;
     font-weight: 400px;
-    line-height: 110px;
     padding: 10px;
 }
 
+
 /*---------------Hero Image */
 
+.hero-image {
+    width: 100%;
+    height: auto;
 
+}
 
 /*---------------About Section */
 
+  .about-sportance {
+      text-align: center;
+  }
 
+.self-picture {
+    height: auto;
+    width: 100px;
+    margin-left: 50px;
+}
 
 
 /*---------------Services Section */
