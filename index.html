@@ -16,14 +16,18 @@
   <body>
     <header>
         <!--Navigation bar-->
-        <div class="navigation col-12 mr-auto fixed-top">
+        <div class="navigation col-12 mr-auto">
         <nav class="navbar navbar-expand-lg">
         <!--Sportance logo in naviagtion bar-->
             <img src="images/logo.png" alt="logo" class="rounded float-left logo fluid">
             <!--Sportace brand name in naviagtion bar-->
             <a href="index.html" class="title">Sportance</a>
             <!--Naviagtion bar links to sections of the page-->
-            <ul class="navbar nav ml-auto">
+            <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarMenu">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarMenu">
+            <ul class="navbar-nav ml-auto">
   <li class="nav-item">
     <a class="nav-link active" href="#about">About</a>
   </li>
@@ -37,6 +41,7 @@
     <a class="nav-link" href="#contact">Contact</a>
   </li>
 </ul>
+</div>
             </nav>
         </div>
     </header>
@@ -46,8 +51,10 @@
                 <div class="col">
                     <img src="images/hero.jpg" alt="Football" class="hero-image mr-auto">
                     <h2 class="jumbotron">
-                    <span class="callout-title">What to achieve optimal performance?</span><br>
-                    <span class="callout-text">Find out how Sportance can help unlock the true potential of your mind and achieve great results below.</span>
+                    <span class="callout-title">What to achieve optimal performance?</span>
+                    <br>
+                    <br>
+                    <span class="callout-text">Find out how Sportance can help unlock the true potential of your mind and achieve great results</span>
                     </h2>
                 </div>
             </div>
@@ -120,9 +127,41 @@
         <section class="contact-section" id="contact">
     
         </section>
+        <!--Footer Section-->
         <footer class="footer-section">
-        
-        
+            <div class="container-fluid"> 
+                <div class="row">
+                <!--Footer Navigation-->
+                    <div class="col-12 col-md-6 col-lg-6">
+                        <ul class="footer-menu">
+                            <li>
+                                <a href="#about">About</a>
+                            </li>
+                            <li>
+                                <a href="#services">Services</a>
+                            </li>
+                            <li>
+                                <a href="#testimonials">Testimonials</a>
+                            </li>
+                            <li>
+                                 <a href="#contact">Contact</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!--Footer Social Media Links-->
+                    <div class="col-12 col-md-6 col-lg-6">
+                        <ul class="social-networks">
+                            <li><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook"></i></a></li>
+                            <li><a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter-square"></i></a></li>
+                            <li><a href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube"></i></a></li>
+                            <li><a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
         </footer>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
   </body>
 </html>

@@ -1,11 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap: 100,200,300,400,500,600,700');
 
+* {
+  box-sizing: border-box;
+}
+
 
 /*---------------Colours */
 
 .navigation {
    background-color: #3c1642 ;
 }
+
 
 .title {
  color: #fff;
@@ -44,6 +49,9 @@ a:hover {
     background-color: #fff;
 }
 
+footer{
+    background-color: #3c1642;
+}
 
 /*---------------Headings*/
 
@@ -73,7 +81,7 @@ a:hover {
     max-height: 100%;
 }
 
-.navbar .nav-link {
+.navbar-nav .nav-link {
     font-family: "Lato", sans-serif;
     font-size: 20px;
     font-weight: bold;
@@ -179,3 +187,37 @@ a:hover {
 /*---------------Contact Section */
 
 /*---------------Footer */
+
+footer {
+    height: 125px;
+    padding: 0px;
+}
+
+.footer-menu {
+    font-size: 15px;
+    color: #fff;
+    float: left;
+    font-family: "Lato", sans-serif;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.footer-menu a {
+    color: #fff;
+}
+
+.social-networks{
+    text-align: center;
+}
+
+.social-networks li {
+    display:inline;
+}
+
+.social-networks i {
+    font-size: 50px;
+    margin: 5px;
+    padding: 5px;
+    color: #777777;
+    float: right;
+}
