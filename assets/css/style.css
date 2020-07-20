@@ -51,6 +51,7 @@ a:hover {
 
 .contact-section {
     background-color: #1dd3b0;
+    color: #3c1642;
 }
 
 footer{
@@ -67,7 +68,6 @@ footer{
 
 .title {
     text-transform: uppercase;
-    font-family: "Lato", sans-serif;
     font-weight: 500;
     padding: 0;
     font-size: 50px; 
@@ -92,7 +92,6 @@ footer{
 }
 
 .navbar-nav .nav-link {
-    font-family: "Lato", sans-serif;
     font-size: 20px;
     font-weight: bold;
     padding: 10px;
@@ -120,13 +119,11 @@ footer{
 
 .callout-title {
     text-transform: uppercase;
-    font-size: 20px;
-    font-family: "Lato",sans-serif;  
+    font-size: 20px; 
 }
 
 .callout-text {
     font-size: 15px;
-    font-family: "Lato",sans-serif;
     padding: 10px;
 }
 /*---------------About Section */
@@ -150,7 +147,6 @@ footer{
 }
 
 .sportance-info, .psychology-info {
-    font-family: "Lato", sans-serif;
     line-height: 25px;
     font-size: 15px;
 }
@@ -178,10 +174,11 @@ footer{
 
 .services-image {
     height: 150px;
-    max-width: auto;
+    max-width: 150px;
     margin-left: 50px;
     margin-top: auto;
-    padding: 10px;
+    padding: 20px;
+    border-radius: 75px;
 }
 /*---------------Testiomonials Section */
 
@@ -196,7 +193,6 @@ footer{
 }
 
 .hollie-testimonial, .mike-testimonial {
-    font-family: "Lato", sans-serif;
     line-height: 25px;
     font-size: 15px;
     padding: 10px;
@@ -206,10 +202,11 @@ footer{
 
 .testimonial-image {
     height: 150px;
-    max-width: auto;
+    max-width: 150px;
     margin-left: 50px;
     margin-top: auto;
     padding: 10px;
+    border-radius: 75px;
 }
 
 /*---------------Contact Section */
@@ -225,6 +222,7 @@ footer{
     padding-bottom: 25px;
     margin-bottom: 10px;
     text-decoration: underline;
+    font-size: 28px;
 }
 
 input[type=text], select, textarea {
@@ -254,7 +252,12 @@ input[type=submit]:hover {
 .contact-container {
   border-radius: 5px;
   background-color: #f2f2f2;
-  padding: 20px;
+  padding: 10px;
+}
+
+.contact-tagline {
+    font-size: 18px;
+    text-align: center;
 }
 
 /*---------------Footer */
@@ -268,7 +271,6 @@ footer {
     font-size: 15px;
     color: #fff;
     float: left;
-    font-family: "Lato", sans-serif;
     text-decoration: none;
     list-style-type: none;
 }
