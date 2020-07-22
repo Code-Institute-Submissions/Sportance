@@ -35,7 +35,7 @@ This website is designed for a variety of users such as athletes, other Sport Ps
 
 The logo was created using [Free Logo Maker](https://logomakr.com) and was designed to be simple and effective. The aim was for the users to look at the logo and understand the purpose of the website and company straight away. The colors on the logo are inine with the color scheme that is shared below to create consistent branding. 
 
-![](images/SportanceLogo.png)
+![](images/logo.png)
 
 2. **Colour Scheme**
 
@@ -53,9 +53,9 @@ The website has the main font of Lato, which was chosen due to it readability fo
 
 The wireframes for this website where created using [Balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAjwltH3BRB6EiwAhj0IUBrAHe-2BiRjQmQGSO-FZIjoEjkckL_kVyJXd5ShGVwKqDaDMqKjvBoCQksQAvD_BwE)
 
-![](images/wireframe3.png)
-![](images/wireframe1.png)
-![](images/wireframe2.png)
+![](wireframes/wireframe-desktop.png)
+![](wireframes/wireframe-mobile.png)
+![](wireframes/wireframe-tablet.png)
 
 ## Features
 ---
