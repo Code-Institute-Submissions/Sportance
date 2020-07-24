@@ -6,8 +6,8 @@
 
 .navbar, footer {
     background-color: #3C1642;
-    color: #fff;
 }
+
 
 #about, #testimonials {
     background-color: #1DD3B0;
@@ -25,7 +25,17 @@ a {
 
 /*---------------Headings*/
 
+h1, h2 {
+    text-transform: uppercase;
+}
 
+h2, h3 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
 
 /*---------------Header */
 
