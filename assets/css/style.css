@@ -4,7 +4,19 @@
 
 /*---------------Colours */
 
+.navbar, footer {
+    background-color: #3C1642;
+    color: #fff;
+}
 
+#about, #testimonials {
+    background-color: #1DD3B0;
+    color: #fff;
+}
+
+a {
+    color: #fff;
+}
 /*---------------Fonts*/
 
 * {
