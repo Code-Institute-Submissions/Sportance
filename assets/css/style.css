@@ -17,6 +17,10 @@
 a {
     color: #fff;
 }
+
+.jumbotron {
+    background-color: rgba(29, 211, 176, 0.8);
+}
 /*---------------Fonts*/
 
 * {
@@ -29,7 +33,11 @@ h1, h2 {
     text-transform: uppercase;
 }
 
-h2, h3 {
+h2 {
+    text-decoration: underline;
+}
+
+h2, h3, h4 {
     text-align: center;
 }
 
@@ -42,7 +50,14 @@ p {
 
 /*---------------Hero Image */
 
-
+.jumbotron {
+    text-align: center;
+    position: absolute;
+    top: 100%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+}
 /*---------------About Section */
 
 
@@ -56,6 +71,7 @@ p {
 
 
 /*---------------Contact Section */
-
-
+form {
+    
+}
 /*---------------Footer */
