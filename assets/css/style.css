@@ -61,16 +61,29 @@ p {
     font-size: 20px !important;
 }
 
+.navbar-collapse {
+    text-align: center;
+}
+
 /*---------------Hero Image */
 
-.jumbotron {
-    text-align: center;
-    position: absolute;
-    top: 100%;
-    left: 30%;
-    transform: translate(-50%, -50%);
-    color: #fff;
+
+
+.hero-image {
+    height: 800px;
+    background: url("../images/hero.png")no-repeat top center;
+    background-size: cover;
+    padding: 0;
 }
+
+.cover-text {
+    color: #3C1642;
+    width: 400px;
+    float: right;
+    margin-top: 500px;
+    padding: 20px;
+}
+
 /*---------------About Section */
 
 
