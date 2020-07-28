@@ -91,3 +91,24 @@ form {
     width: 70%;
 }
 /*---------------Footer */
+
+ul, .footer-menu {
+ list-style-type: none;
+}
+
+ol, ul, dl {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+i {
+    font-size: 35px;
+}
+
+footer, a ,li {
+    padding-left: 20px;
+}
+
+.footer-menu, a {
+    font-size: 20px;
+}
