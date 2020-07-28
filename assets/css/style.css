@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap: 100,200,300,400,500,600,700');
 
-
+* {
+    box-sizing: border-box;
+}
 
 /*---------------Colours */
 
@@ -21,6 +23,10 @@ a {
 
 .jumbotron {
     background-color: rgba(29, 211, 176, 0.8);
+}
+
+label {
+    color: #3C1642;
 }
 /*---------------Fonts*/
 
@@ -99,10 +105,29 @@ p {
 /*---------------Contact Section */
 
 form {
-    margin-left: 15%;
-    margin-right:15%;
-    width: 70%;
-    padding-bottom: 2rem;
+    display: block;
+    margin-top: 0em;
+    padding: 10px;
+}
+
+input[type="text"], select, textarea  {
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 6px;
+    resize: vertical;
+    padding: 12px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(204, 204, 204);
+    border-image: initial;
+    border-radius: 4px;
+    color: black;
+}
+
+.contact-container {
+    background-color: rgb(242, 242, 242);
+    border-radius: 5px;
+    padding: 10px;
 }
 /*---------------Footer */
 
@@ -138,7 +163,7 @@ footer, a ,li {
     text-decoration: none !important;
 }
 
-.social-networks, ul, li {
+.social-networks, ul {
     display:inline;
     padding-inline-start: 0px;
 }
