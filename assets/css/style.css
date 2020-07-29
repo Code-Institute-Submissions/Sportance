@@ -91,7 +91,7 @@ p {
 .jumbotron {
     text-align: center;
     position: absolute;
-    top: 100%;
+    top: 80%;
     left: 30%;
     transform: translate(-50%, -50%);
     color: #fff;
