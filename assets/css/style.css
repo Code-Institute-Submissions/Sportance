@@ -171,7 +171,7 @@ i {
 }
 
 footer, a ,li {
-    padding-left: 1rem;
+    padding-left: 9px;
     justify-content: center;
     align-items: center;
 }
@@ -183,7 +183,6 @@ footer, a ,li {
 
 ul.social-networks li {
     display:inline;
-    padding-inline-start: 0px;
 }
 
 /*---------------Media Queries */
