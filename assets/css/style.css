@@ -92,17 +92,27 @@ p {
 
 /*---------------About Section */
 
-
+#about {
+    padding: 2rem;
+}
 
 /*---------------Services Section */
 
-
+#services {
+    padding: 2rem;
+}
 
 /*---------------Testiomonials Section */
 
-
+#testimonials {
+    padding: 2rem;
+}
 
 /*---------------Contact Section */
+
+#contact {
+    padding: 2rem;
+}
 
 form {
     display: block;
@@ -112,7 +122,6 @@ form {
 
 input[type="text"], select, textarea  {
     width: 100%;
-    box-sizing: border-box;
     margin-top: 6px;
     resize: vertical;
     padding: 12px;
@@ -128,11 +137,14 @@ input[type="text"], select, textarea  {
     background-color: rgb(242, 242, 242);
     border-radius: 5px;
     padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
 }
 /*---------------Footer */
 
 footer {
-    height: 10rem;
+    height: 13rem;
+    padding-top: 2rem;
 }
 
 .footer-menu, .social-networks {
