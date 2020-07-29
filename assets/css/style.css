@@ -43,6 +43,7 @@ a:hover {
 }
 /*---------------Headings*/
 
+
 h1, h2 {
     text-transform: uppercase;
 }
@@ -130,7 +131,7 @@ input[type="text"], select, textarea  {
     border-color: rgb(204, 204, 204);
     border-image: initial;
     border-radius: 4px;
-    color: black;
+    color: #3C1642;
 }
 
 .contact-container {
@@ -140,6 +141,11 @@ input[type="text"], select, textarea  {
     margin-left: auto;
     margin-right: auto;
 }
+
+input[type="submit"]:hover {
+    background-color: #1DD3B0;
+}
+   
 /*---------------Footer */
 
 footer {
