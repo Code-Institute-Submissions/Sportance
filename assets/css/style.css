@@ -154,26 +154,20 @@ input[type="text"], select, textarea  {
    
 /*---------------Footer */
 
-footer {
-    height: 13rem;
+#footer {
+    height: 15rem;
     padding-top: 2rem;
+    padding-bottom: 0;
 }
 
-.footer-menu, .social-networks {
-    padding-top: 2rem;
-}
 
 footer, .footer-menu, .social-networks {
  list-style-type: none;
 }
 
-ol, ul, dl {
-    margin-top: 3rem;
-    margin-bottom: 3rem;
-}
-
 i {
-    font-size: 35px;
+    font-size: 70px !important;
+    padding-top: 3rem;
 }
 
 footer, a ,li {
@@ -183,11 +177,11 @@ footer, a ,li {
 }
 
 .footer-menu, a {
-    font-size: 20px;
+    font-size: 25px;
     text-decoration: none !important;
 }
 
-.social-networks, ul {
+ul.social-networks li {
     display:inline;
     padding-inline-start: 0px;
 }
