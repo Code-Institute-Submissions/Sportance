@@ -28,6 +28,15 @@ a {
 label {
     color: #3C1642;
 }
+
+a:hover {
+  color: #1DD3B0 !important;
+}
+
+input[type="submit"]:hover {
+    background-color: #1DD3B0;
+}
+
 /*---------------Fonts*/
 
 * {
@@ -38,9 +47,6 @@ p {
     font-size: 18px;
 }
 
-a:hover {
-  color: #1DD3B0 !important;
-}
 /*---------------Headings*/
 
 
@@ -144,10 +150,6 @@ input[type="text"], select, textarea  {
     padding: 10px;
     margin-left: auto;
     margin-right: auto;
-}
-
-input[type="submit"]:hover {
-    background-color: #1DD3B0;
 }
    
 /*---------------Footer */
