@@ -53,6 +53,10 @@ h2 {
     padding: 2rem 0 2rem;
 }
 
+h3 {
+    font-weight: 700;
+}
+
 h2, h3, h4 {
     text-align: center;
     padding: 1rem 0 1rem;
@@ -184,4 +188,16 @@ footer, a ,li {
 .social-networks, ul {
     display:inline;
     padding-inline-start: 0px;
+}
+
+/*---------------Media Queries */
+
+@media (min-width: 768px) {
+    #services img, #testimonials img {
+        height: 25vw !important;
+    }
+
+    #about, #services, #testimonials, p {
+             text-align: left !important;
+    }
 }
