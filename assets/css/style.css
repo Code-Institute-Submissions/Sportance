@@ -89,6 +89,7 @@ p {
 
 img.img-fluid.logo {
     height:5rem;
+    padding-left: 3rem;
 }
 /*---------------Hero Image */
 
@@ -97,7 +98,7 @@ img.img-fluid.logo {
 .jumbotron {
     text-align: center;
     position: absolute;
-    top: 55%;
+    top: 70%;
     left: 30%;
     transform: translate(-50%, -50%);
     color: #fff;
