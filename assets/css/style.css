@@ -92,7 +92,9 @@ img.img-fluid.logo {
 }
 /*Hero Image */
 
-
+#home {
+    margin-top: 89px;
+}
 
 .jumbotron {
     text-align: center;
