@@ -53,9 +53,9 @@ The website has the main font of Lato, which was chosen due to it readability fo
 
 The wireframes for this website where created using [Balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAjwltH3BRB6EiwAhj0IUBrAHe-2BiRjQmQGSO-FZIjoEjkckL_kVyJXd5ShGVwKqDaDMqKjvBoCQksQAvD_BwE)
 
-![](assets/wireframes/wireframe-desktop.png)
-![](assets/wireframes/wireframe-mobile.png)
-![](assets/wireframes/wireframe-tablet.png)
+![](wireframes/wireframe-desktop.png)
+![](wireframes/wireframe-mobile.png)
+![](wireframes/wireframe-tablet.png)
 
 ## Features
 ---
