@@ -197,7 +197,7 @@ footer, a ,li {
 
 @media (min-width: 768px) {
     #services img, #testimonials img {
-        height: 25vw !important;
+        height: 25vh !important;
     }
 
     #about, #services, #testimonials, p {
