@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-/*---------------Colours */
+/*Colours */
 
 .navbar, footer, #about, #testimonials {
     background-color: #3C1642;
@@ -37,7 +37,7 @@ input[type="submit"]:hover {
     background-color: #1DD3B0;
 }
 
-/*---------------Fonts*/
+/*Fonts*/
 
 * {
     font-family: "Lato", sans-serif;
@@ -47,7 +47,7 @@ p {
     font-size: 18px;
 }
 
-/*---------------Headings*/
+/*Headings*/
 
 h1, .h1 {
     font-size: 2rem;
@@ -76,7 +76,7 @@ p {
     text-align: center;
 }
 
-/*---------------Header/Navbar */
+/*Header/Navbar */
 
 
 .nav-link {
@@ -91,7 +91,7 @@ img.img-fluid.logo {
     height:5rem;
     padding-left: 3rem;
 }
-/*---------------Hero Image */
+/*Hero Image */
 
 
 
@@ -111,25 +111,25 @@ img.img-fluid.logo {
     text-decoration: none;
 }
 
-/*---------------About Section */
+/*About Section */
 
 #about {
     padding: 2rem;
 }
 
-/*---------------Services Section */
+/*Services Section */
 
 #services {
     padding: 2rem;
 }
 
-/*---------------Testiomonials Section */
+/*Testiomonials Section */
 
 #testimonials {
     padding: 2rem;
 }
 
-/*---------------Contact Section */
+/*Contact Section */
 
 #contact {
     padding: 2rem;
@@ -162,7 +162,7 @@ input[type="text"], select, textarea  {
     margin-right: auto;
 }
    
-/*---------------Footer */
+/*Footer */
 
 #footer {
     height: 15rem;
@@ -195,7 +195,7 @@ ul.social-networks li {
     display:inline;
 }
 
-/*---------------Media Queries */
+/*Media Queries */
 
 @media (min-width: 768px) {
     #services img, #testimonials img {
