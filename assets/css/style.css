@@ -150,9 +150,7 @@ form {
 
 @media (min-width: 768px) {
     .body-images {
-        max-width: 40rem;
-        max-height: 26rem;
-        text-align: center;
+        max-width: 25vw;
     }
 
     p {
