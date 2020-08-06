@@ -106,6 +106,7 @@ The features that were added to the project were designed to have a high level o
 
 * The hero image allows the user to get a sense of what the webpage is all about and this is responsive across all viewports. This is further enhanced by the use of a Jumbotron which sits on top of the hero image. The tagline is intended to encourage the users to continue reading down the webpage. The Jumbotron text disappears on screen sizes below 992px so that it does not crowd the screen. 
 
+* All sections are responsive and have been tested on all viewport widths using chrome developer tools to ensure they style correctly. 
 
 ## Deployment
 ---
