@@ -108,6 +108,8 @@ The features that were added to the project were designed to have a high level o
 
 * All sections are responsive and have been tested on all viewport widths using chrome developer tools to ensure they style correctly. 
 
+* The user is required to fill in all the fields of the contact form before they can submit. If they do not fill in all fields, they will be prompted by a reminder to do so.
+
 ## Deployment
 ---
 
