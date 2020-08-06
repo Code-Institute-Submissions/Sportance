@@ -107,48 +107,84 @@ The features that were added to the project were designed to have a high level o
 ## Testing
 ---
 **Plan** – I want the ‘About, Services and testimonials Section’ to allow users to learn more about Sport Psychology and how it could benefit them in their sports performance. Based on the information in the About section and the services section the users can decide if they feel that they have a need for the services offered by the team at Sportance. If the users are still unsure about Sport Psychology and whether they feel it will benefit them, they can read the two testimonials provided to give them confidence that Sport Psychology does work. This will hopefully encourage the user to get in touch and ask more questions using the contact form.
+
 **Implementation** – Ensuring there is enough information for the user to decide to get in contact. Equally it was important to not overwhelm the user with too much information that they lose interest. 
+
 **Test** – This was tested by asking friends and family if the sections have given them enough information about Sportance. 
+
 **Result** – The information presented in the sections mentioned above provide enough information for users to decide if Sport Psychology is something they want to access through Sportance.
+
 **Verdict** – This test passed based on the notes and criteria above.
+
 
 **Plan** - The navbar at the top of the page to allow the user to navigate their way quickly around the page. Each nav link will take the user to their desired section when clicked. The navbar will be responsive and a navbar toggler appears when the screen size is below 768px to avoid congestion. 
+
 **Implementation** – Using Popper JS and jQuery to allow the navbar to collapse into a toggler at the correct breakpoint. Also ensuring the navbar links are correctly linked to each corresponding section. 
+
 **Test** – Using chrome developer tools to adjust the screen size and see if the toggler appears at the correct breakpoint and still takes the user to the desired section on the webpage. Clicking on the links at the top of the page to take the user to the desired section on the webpage.
+
 **Result** – The navbar links allow the users to navigate their way around the webpage. Each link works. The toggler successfully appears at the correct breakpoint and works. 
+
 **Verdict** – This test passed based on the notes and criteria above.
+
 
 **Plan** – The Sportance Logo in the navbar to link to home and take the user back to the top of the webpage when instead of them having to scroll back through the page. Also, the nav bar at the top to be fixed to stop user having to scroll to each section should they not wish too. 
+
 **Implementation** – The Sportance logo is wrapped in anchor tags that are linked to home. The navbar is fixed at the top of the page. 
+
 **Test** – To test this I clicked on the Sportance logo to check it returned the user to home. I also tested the fixed navbar by scrolling through the webpage and ensuring it stayed at the top. 
+
 **Result** – The Sportance Logo returns the user to home and the navbar is fixed to the top of the webpage.
+
 **Verdict** – This test passed based on the notes and criteria above.
+
 
 **Plan** – For the hero image to allow the user to get a sense of what the webpage is all about and for this to be responsive across all viewport widths. This is to be further enhanced by a Jumbotron with a tag line that sits on top of the hero image. The Jumbotron text to disappear on screen sizes below 992px so that it does not crowd the screen.
+
 **Implementation** – This was implemented by using the .img-fluid from the bootstrap library and bootstrap column classes.
+
 **Test** – This was tested using Chrome Developer tool to see if the image is responsive.
+
 **Result** – The image responds to different viewport widths and disappears when on screen size below 992px.
+
 **Verdict** – This test passed based on the notes and criteria above.
+
 
 **Plan** – To ensure that all sections are responsive to different viewport widths. 
+
 **Implementation** – This was implemented using bootstraps column classes to utilise the space.
+
 **Test** – This was tested using Chrome Developer tools to ensure each section responds correctly at each breakpoint. 
+
 **Result** – All sections responds correctly at each breakpoint to keep a user-friendly webpage structure.
+
 **Verdict** – This test passed based on the notes and criteria above.
+
 
 **Plan** – The user is required to fill in each field within the contact form. 
+
 **Implementation** – This was implemented using required within each input. 
+
 **Test** – To test this, I have tried to submit without filling in each field.
+
 **Result** – The user is not able to submit unless they fill in each field. They receive a warning message to remind them that they need to complete the missing information.
+
 **Verdict** – This test passed based on the notes and criteria above.
+
 
 **Plan** – For the footer to consist of links to all sections on the webpage and Sportance’s social media accounts. Also for the social media links to open in a separate window and for the links to disappear on screen sizes below 992px.
+
 **Implementation** - All social media links open a new window using ‘target=”blank”’. Also ‘rel=”noopener”’ was added to each social media link to ensure the new page is not able to access the window.opener process. 
+
 **Test** – This was tested by clicking on each link to check it takes the user to either the intended section on the webpage or by opening a new tab for each social media link. Also Chrome Developer tools were used to ensure that the social media links dissapeard on screen sizes below 992px.
+
 **Result** - All links work correctly and take the user to the desired location. The social media links disappear when the screen size is below 992px. 
+
 **Verdict** – This test passed based on the notes and criteria above.
 
+
 **Aria labels** have been added to all anchor tags and inputs to ensure that there is accessibility for all users. 
+
 
 All code was **validated** using [W3C’s Code Validator]( https://jigsaw.w3.org/css-validator/validator) and no errors or warnings were shown. 
 
