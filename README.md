@@ -79,19 +79,21 @@ The features that were added to the project were designed to have a high level o
 
 ## Technologies Used
 ---
-### **Languages, Frameworks:**
+### **Languages:**
 
-* HTML,CSS were the main languages used to create this single page website.
-* [Github](https://github.com/) was used to keep the repository and deloy the website.
-* [Gitpod](https://www.gitpod.io/) was the chosen IDE for the project. 
-* [Bootstrap Frameworks](https://getbootstrap.com/) were used to help structure the main body of the project. 
+* HTML
+* CSS
+* jQuery  
 
-### **Tools Used**
+### **Frameworks and Libraries**
 
-* [Google Fonts](https://fonts.google.com/specimen/Lato?sidebar.open&selection.family=Lato) was used to chose the fonts for the project.
-* [Coolors](https://coolors.co/3c1642-086375-1dd3b0-fffdfd-ffffff) was used to chose the colour scheme for the project.
-* [Balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAjwltH3BRB6EiwAhj0IUBrAHe-2BiRjQmQGSO-FZIjoEjkckL_kVyJXd5ShGVwKqDaDMqKjvBoCQksQAvD_BwE) was used to create the wireframes for the project.
-* [Free Logo Maker](https://logomakr.com) was used to create the free logo for the project.
+* [Bootstrap] (https://getbootstrap.com/)
+* [Font Awesome] (https://fontawesome.com/)
+* [Favicon Creator] (https://www.favicon.cc/?action=import_request)
+* [Google Fonts](https://fonts.google.com/specimen/Lato?sidebar.open&selection.family=Lato) 
+* [Coolors](https://coolors.co/3c1642-086375-1dd3b0-fffdfd-ffffff) 
+* [Balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAjwltH3BRB6EiwAhj0IUBrAHe-2BiRjQmQGSO-FZIjoEjkckL_kVyJXd5ShGVwKqDaDMqKjvBoCQksQAvD_BwE)
+* [Free Logo Maker](https://logomakr.com)
 
 ## Testing
 ---
