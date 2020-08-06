@@ -114,6 +114,8 @@ The features that were added to the project were designed to have a high level o
 
 * Aria labels have been added to all anchor tags and inputs to ensure there is accessibility for all users. 
 
+* All code was validated using [W3C’s Code Validator](https://jigsaw.w3.org/css-validator/validator) and no errors or warnings were shown. 
+
 ## Deployment
 ---
 
