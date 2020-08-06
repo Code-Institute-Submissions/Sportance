@@ -131,6 +131,7 @@ To create a local respository, follow the steps below:
 
 ### Content
 
+ * All content written in the About, Services and Testimonials section were written by me. 
 
 ### Media
 
