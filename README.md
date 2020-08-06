@@ -117,6 +117,7 @@ The features that were added to the project were designed to have a high level o
 **Verdict** – This test passed based on the notes and criteria above.
 
 
+
 **Plan** - The navbar at the top of the page to allow the user to navigate their way quickly around the page. Each nav link will take the user to their desired section when clicked. The navbar will be responsive and a navbar toggler appears when the screen size is below 768px to avoid congestion. 
 
 **Implementation** – Using Popper JS and jQuery to allow the navbar to collapse into a toggler at the correct breakpoint. Also ensuring the navbar links are correctly linked to each corresponding section. 
@@ -126,6 +127,7 @@ The features that were added to the project were designed to have a high level o
 **Result** – The navbar links allow the users to navigate their way around the webpage. Each link works. The toggler successfully appears at the correct breakpoint and works. 
 
 **Verdict** – This test passed based on the notes and criteria above.
+
 
 
 **Plan** – The Sportance Logo in the navbar to link to home and take the user back to the top of the webpage when instead of them having to scroll back through the page. Also, the nav bar at the top to be fixed to stop user having to scroll to each section should they not wish too. 
@@ -139,6 +141,7 @@ The features that were added to the project were designed to have a high level o
 **Verdict** – This test passed based on the notes and criteria above.
 
 
+
 **Plan** – For the hero image to allow the user to get a sense of what the webpage is all about and for this to be responsive across all viewport widths. This is to be further enhanced by a Jumbotron with a tag line that sits on top of the hero image. The Jumbotron text to disappear on screen sizes below 992px so that it does not crowd the screen.
 
 **Implementation** – This was implemented by using the .img-fluid from the bootstrap library and bootstrap column classes.
@@ -148,6 +151,7 @@ The features that were added to the project were designed to have a high level o
 **Result** – The image responds to different viewport widths and disappears when on screen size below 992px.
 
 **Verdict** – This test passed based on the notes and criteria above.
+
 
 
 **Plan** – To ensure that all sections are responsive to different viewport widths. 
@@ -161,6 +165,7 @@ The features that were added to the project were designed to have a high level o
 **Verdict** – This test passed based on the notes and criteria above.
 
 
+
 **Plan** – The user is required to fill in each field within the contact form. 
 
 **Implementation** – This was implemented using required within each input. 
@@ -170,6 +175,7 @@ The features that were added to the project were designed to have a high level o
 **Result** – The user is not able to submit unless they fill in each field. They receive a warning message to remind them that they need to complete the missing information.
 
 **Verdict** – This test passed based on the notes and criteria above.
+
 
 
 **Plan** – For the footer to consist of links to all sections on the webpage and Sportance’s social media accounts. Also for the social media links to open in a separate window and for the links to disappear on screen sizes below 992px.
@@ -183,11 +189,12 @@ The features that were added to the project were designed to have a high level o
 **Verdict** – This test passed based on the notes and criteria above.
 
 
+
 **Aria labels** have been added to all anchor tags and inputs to ensure that there is accessibility for all users. 
 
 
-All code was **validated** using [W3C’s Code Validator]( https://jigsaw.w3.org/css-validator/validator) and no errors or warnings were shown. 
 
+All code was **validated** using [W3C’s Code Validator]( https://jigsaw.w3.org/css-validator/validator) and no errors or warnings were shown. 
 
 
 
