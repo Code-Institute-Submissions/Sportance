@@ -69,6 +69,7 @@ p {
 .navbar-dark .navbar-nav .nav-link {
     color: #fff;
     font-size: 2rem;
+    padding: 1rem;
 }
 
 a {
@@ -138,7 +139,11 @@ input[type="text"], select, textarea  {
     color: #3C1642;
 }
 
-.contact-container {
+input[type="submit"]:hover {
+    background-color: #1DD3B0;
+}
+
+.contact-us {
     background-color: rgb(242, 242, 242);
     border-radius: 5px;
     padding: 10px;
