@@ -103,6 +103,10 @@ The features that were added to the project were designed to have a high level o
 * The user stories achieved their intended outcome and allowed the users to find out information about Sportance and what it offers. The About section allows users to learn more about Sport Psychology and how it could benefit them in their sports performance. Based on the information in the About section and the services section the users can decide if they feel that they have a need for the services offered by the team at Sportance. If the users are still unsure about Sport Psychology and whether they feel it will benefit them, they can read the two testimonials provided to give them confidence that Sport Psychology does work. This will hopefully encourage the user to get in touch and ask more questions. The User can do this by filling in the contact form.  The user is also able to access Sportance’s social media accounts by clicking on the links in the footer of the page.
 
 * The navbar at the top of the page allows the user to navigate their way quickly around the page. Each nav link takes the user to their desired section when clicked. The navbar is responsive and a navbar toggler appears when the screen size is below 768px. This means that the navbar does not become congested and allow a more user-friendly navigation. The Sportance logo in the navbar is a link to home which will when clicked will return the user to the top of the page instead of them scrolling. The navbar is fixed to the top of the page to allow the user to navigate easily when scrolling through the page. 
+
+* The hero image allows the user to get a sense of what the webpage is all about and this is responsive across all viewports. This is further enhanced by the use of a Jumbotron which sits on top of the hero image. The tagline is intended to encourage the users to continue reading down the webpage. The Jumbotron text disappears on screen sizes below 992px so that it does not crowd the screen. 
+
+
 ## Deployment
 ---
 
