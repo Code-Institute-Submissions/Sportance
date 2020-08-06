@@ -16,7 +16,7 @@ body {
 
 /*Colours */
 
-.navbar, footer, #about, #testimonials {
+.dark-section {
     background-color: #3C1642;
     color: #ffffff;
 }
