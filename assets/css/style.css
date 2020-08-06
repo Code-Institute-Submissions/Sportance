@@ -18,7 +18,7 @@ body {
 
 .dark-section {
     background-color: #3C1642;
-    color: #ffffff;
+    color: #fff;
     padding: 2rem;
 }
 
@@ -28,11 +28,6 @@ body {
     color: #fff;
     padding: 2rem;
 }
-
-input[type="submit"]:hover {
-    background-color: #1DD3B0;
-}
-
 
 /* Headings */
 
@@ -59,12 +54,18 @@ h2, h3, h4 {
     
 }
 
+/* All sections */
+
 p {
     text-align: center;
 }
 
 /* Header/Navbar */
 
+.logo {
+    height: 8rem;
+    padding-left: 4rem;
+}
 
 .navbar-dark .navbar-nav .nav-link {
     color: #fff;
@@ -77,18 +78,12 @@ a {
 }
 
 a:hover {
-  color: #1DD3B0 !important;
+  color: #1DD3B0;
 }
 
 .navbar-collapse {
     text-align: center;
 }
-
-.logo {
-    height: 8rem;
-    padding-left: 4rem;
-}
-
 
 /* Hero Image & Jumbotron */
 
@@ -113,10 +108,7 @@ a:hover {
     filter: grayscale(100%);
 }
 
-
 /* Contact Section */
-
-}
 
 form {
     display: block;
@@ -144,7 +136,6 @@ form {
     padding-bottom: 0;
 }
 
-
 .fab {
     font-size: 4.5rem;
     padding-top: 3rem;
@@ -155,16 +146,16 @@ form {
     list-style-type: none;
 }
 
-
 /* Media Queries */
 
 @media (min-width: 768px) {
     .body-images {
-        max-width: 25vw;
+        max-width: 40rem;
+        max-height: 26rem;
         text-align: center;
     }
 
     p {
-             text-align: left;
+        text-align: left;
     }
 }
