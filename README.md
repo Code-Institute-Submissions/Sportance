@@ -106,6 +106,8 @@ The features that were added to the project were designed to have a high level o
 
 ## Testing
 ---
+### All Sections
+
 **Plan** – I want the ‘About, Services and testimonials Section’ to allow users to learn more about Sport Psychology and how it could benefit them in their sports performance. Based on the information in the About section and the services section the users can decide if they feel that they have a need for the services offered by the team at Sportance. If the users are still unsure about Sport Psychology and whether they feel it will benefit them, they can read the two testimonials provided to give them confidence that Sport Psychology does work. This will hopefully encourage the user to get in touch and ask more questions using the contact form.
 
 **Implementation** – Ensuring there is enough information for the user to decide to get in contact. Equally it was important to not overwhelm the user with too much information that they lose interest. 
@@ -116,7 +118,7 @@ The features that were added to the project were designed to have a high level o
 
 **Verdict** – This test passed based on the notes and criteria above.
 
-
+### Navbar
 
 **Plan** - The navbar at the top of the page to allow the user to navigate their way quickly around the page. Each nav link will take the user to their desired section when clicked. The navbar will be responsive and a navbar toggler appears when the screen size is below 768px to avoid congestion. 
 
@@ -128,7 +130,7 @@ The features that were added to the project were designed to have a high level o
 
 **Verdict** – This test passed based on the notes and criteria above.
 
-
+### Logo and Nav Links
 
 **Plan** – The Sportance Logo in the navbar to link to home and take the user back to the top of the webpage when instead of them having to scroll back through the page. Also, the nav bar at the top to be fixed to stop user having to scroll to each section should they not wish too. 
 
@@ -140,7 +142,7 @@ The features that were added to the project were designed to have a high level o
 
 **Verdict** – This test passed based on the notes and criteria above.
 
-
+### Hero Image
 
 **Plan** – For the hero image to allow the user to get a sense of what the webpage is all about and for this to be responsive across all viewport widths. This is to be further enhanced by a Jumbotron with a tag line that sits on top of the hero image. The Jumbotron text to disappear on screen sizes below 992px so that it does not crowd the screen.
 
@@ -152,7 +154,7 @@ The features that were added to the project were designed to have a high level o
 
 **Verdict** – This test passed based on the notes and criteria above.
 
-
+### Responiveness
 
 **Plan** – To ensure that all sections are responsive to different viewport widths. 
 
@@ -164,7 +166,7 @@ The features that were added to the project were designed to have a high level o
 
 **Verdict** – This test passed based on the notes and criteria above.
 
-
+### Contact Form
 
 **Plan** – The user is required to fill in each field within the contact form. 
 
@@ -176,7 +178,7 @@ The features that were added to the project were designed to have a high level o
 
 **Verdict** – This test passed based on the notes and criteria above.
 
-
+### Footer
 
 **Plan** – For the footer to consist of links to all sections on the webpage and Sportance’s social media accounts. Also for the social media links to open in a separate window and for the links to disappear on screen sizes below 992px.
 
@@ -188,11 +190,11 @@ The features that were added to the project were designed to have a high level o
 
 **Verdict** – This test passed based on the notes and criteria above.
 
-
+### Accessibility
 
 **Aria labels** have been added to all anchor tags and inputs to ensure that there is accessibility for all users. 
 
-
+### Validation
 
 All code was **validated** using [W3C’s Code Validator]( https://jigsaw.w3.org/css-validator/validator) and no errors or warnings were shown. 
 
