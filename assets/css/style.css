@@ -48,6 +48,7 @@ h2 {
 
 h3 {
     font-weight: 700;
+    font-size: 2.5rem;
 }
 
 h3, h4 {
@@ -56,10 +57,9 @@ h3, h4 {
     
 }
 
-/* All sections */
-
-p {
-    text-align: center;
+h4 {
+    font-size: 2rem;
+    text-decoration: underline;
 }
 
 /* Header/Navbar */
@@ -97,7 +97,7 @@ a:hover {
 .jumbotron {
     background-color: rgba(29, 211, 176, 0.8);
     position: absolute;
-    top: 40%;
+    top: 45%;
     left: 30%;
     transform: translate(-50%, -50%);
     color: #fff;
@@ -154,11 +154,5 @@ form {
 @media (min-width: 768px) {
     .body-images {
         max-width: 25vw;
-    }
-}
-
-@media (max-width: 768px) {
-    .body-images {
-        padding: 3rem 0 3rem;
     }
 }
