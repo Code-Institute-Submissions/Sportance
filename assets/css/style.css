@@ -47,8 +47,8 @@ input[type="submit"]:hover {
 
 /*Headings*/
 
-h1, .h1 {
-    font-size: 2rem;
+h1 {
+    font-size: 3rem;
 }
 
 h1, h2 {
@@ -86,8 +86,8 @@ p {
 }
 
 .logo {
-    height:7rem;
-    padding-left: 2rem;
+    height: 8rem;
+    padding-left: 4rem;
 }
 /*Hero Image */
 
