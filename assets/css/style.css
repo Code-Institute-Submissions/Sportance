@@ -113,20 +113,16 @@ a:hover {
 
 /* Contact Section */
 
-form {
-    display: block;
-    margin-top: 0em;
-    padding: 10px;
-}
-
 .form-control {
     font-size: 1.6rem;
 }
 
 .contact-us {
+    display: block;
+    margin-top: 0em;
+    padding: 10px;
     background-color: rgb(242, 242, 242);
     border-radius: 5px;
-    padding: 10px;
     margin-left: auto;
     margin-right: auto;
 }
