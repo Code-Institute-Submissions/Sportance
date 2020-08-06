@@ -163,7 +163,7 @@ To create a local respository, follow the steps below:
 * The navbar collapse function was created using the following tutorial [Navbar Collapse Tutorial](https://www.youtube.com/watch?v=L0uNai3XyKQ)
 * The contact form was created using the [w3schools Contact Form Guide](https://www.w3schools.com/howto/howto_css_contact_form.asp)
 
-* I would like to thank **Simen Dehlin** for his continued support, help and words of encouragement throughout this project. 
+* I would like to thank [Simen Dehlin](https://github.com/Eventyret) for his continued support, help and words of encouragement throughout this project. 
 * I would also like to thank the **slack community** at the Code Institute for the help with peer review when needed. 
 
 
