@@ -14,8 +14,8 @@ This website is designed for a variety of users such as athletes, other Sport Ps
 *Generic User (athlete or sports person)*
 
 * As a user, I want to be able to learn about Sport Psychology and its benefits.
-* As a user, I want to be able to identify if they have a need for the services offered.
-* As a user, I want to be able to read testimonials from previous clients and decide if they wish to use Sport Psychology for their own personal needs.
+* As a user, I want to be able to identify if I have a need for the services offered.
+* As a user, I want to be able to read testimonials from previous clients and decide if I wish to use Sport Psychology for their own personal needs.
 * As a user, I want to be able to get in contact with the Sport Psychologist, ask questions and request an appointment.
 * As a user, I want to be able to find the social networks of Sportance.
 
@@ -100,8 +100,9 @@ The features that were added to the project were designed to have a high level o
 
 ## Testing
 ---
+* The user stories achieved their intended outcome and allowed the users to find out information about Sportance and what it offers. The About section allows users to learn more about Sport Psychology and how it could benefit them in their sports performance. Based on the information in the About section and the services section the users can decide if they feel that they have a need for the services offered by the team at Sportance. If the users are still unsure about Sport Psychology and whether they feel it will benefit them, they can read the two testimonials provided to give them confidence that Sport Psychology does work. This will hopefully encourage the user to get in touch and ask more questions. The User can do this by filling in the contact form.  The user is also able to access Sportance’s social media accounts by clicking on the links in the footer of the page.
 
-
+*
 ## Deployment
 ---
 
