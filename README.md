@@ -1,4 +1,4 @@
-# Sportance - Milestone Project 1
+# Sportance ![](assets/images/logo.png)
 
 ## Introduction
 ---
