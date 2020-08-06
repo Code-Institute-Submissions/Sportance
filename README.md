@@ -13,10 +13,10 @@ This website is designed for a variety of users such as athletes, other Sport Ps
 
 *Generic User (athlete or sports person)*
 
-* To be able to learn about Sport Psychology and its benefits.
-* To be able to identify if they have a need for the services offered.
-* To be able to read testimonials from previous clients and decide if they wish to use Sport Psychology for their own personal needs.
-* To be able to get in contact with the Sport Psychologist, ask questions and request an appointment.
+* As a user, I want to be able to learn about Sport Psychology and its benefits.
+* As a user, I want to be able to identify if they have a need for the services offered.
+* As a user, I want to be able to read testimonials from previous clients and decide if they wish to use Sport Psychology for their own personal needs.
+* As a user, I want to be able to get in contact with the Sport Psychologist, ask questions and request an appointment.
 
 *Other Sport Psychologists*
 
