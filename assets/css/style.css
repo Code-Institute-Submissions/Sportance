@@ -118,13 +118,9 @@ a:hover {
 }
 
 .contact-us {
-    display: block;
-    margin-top: 0em;
     padding: 10px;
     background-color: rgb(242, 242, 242);
     border-radius: 5px;
-    margin-left: auto;
-    margin-right: auto;
 }
    
 /* Footer */
