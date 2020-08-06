@@ -92,6 +92,7 @@ The features that were added to the project were designed to have a high level o
 * [Font Awesome](https://fontawesome.com/)
 * [Google Fonts](https://fonts.google.com/specimen/Lato?sidebar.open&selection.family=Lato)
 * [Popper JS](https://popper.js.org/)
+* [jQuery](https://jquery.com/)
 
 
 ### **Tools Used**
