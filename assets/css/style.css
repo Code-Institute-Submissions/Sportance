@@ -16,17 +16,17 @@ body {
 
 /* Colours */
 
-.dark-section {
-    background-color: #3C1642;
+.common-section {
     color: #fff;
     padding: 2rem;
 }
 
+.dark-section {
+    background-color: #3C1642;
+}
 
 .light-section {
     background-color: #1DD3B0;
-    color: #fff;
-    padding: 2rem;
 }
 
 /* Headings */
@@ -118,8 +118,8 @@ a:hover {
 }
 
 .contact-us {
-    padding: 10px;
-    background-color: rgb(242, 242, 242);
+    padding: 1rem;
+    background-color: #fafafa;
     border-radius: 5px;
 }
    
