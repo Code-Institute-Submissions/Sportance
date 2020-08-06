@@ -22,9 +22,9 @@ This website is designed for a variety of users such as athletes, other Sport Ps
 
 *Other Sport Psychologists*
 
-* To stay up to date with current information.
-* To gain inspiration for tools and services that they could use with their own clients.
-* To be able to get in contact and ask questions. 
+* As a user, I want to stay up to date with current information.
+* As a user, I want to gain inspiration for tools and services that they could use with their own clients.
+* As a user, I want to be able to get in contact and ask questions. 
 
 
 ### Design 
