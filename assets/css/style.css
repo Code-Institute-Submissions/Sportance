@@ -14,30 +14,19 @@ body {
 }
 
 
-/*Colours */
+/*Colours*/
 
 .dark-section {
     background-color: #3C1642;
     color: #ffffff;
+    padding: 2rem;
 }
 
 
-#services, #contact {
+.light-section {
     background-color: #1DD3B0;
     color: #fff;
-}
-
-a {
-    color: #fff !important;
-}
-
-
-label {
-    color: #3C1642;
-}
-
-a:hover {
-  color: #1DD3B0 !important;
+    padding: 2rem;
 }
 
 input[type="submit"]:hover {
@@ -77,8 +66,17 @@ p {
 /*Header/Navbar */
 
 
-.nav-link {
-    font-size: 20px !important;
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+    font-size: 2rem;
+}
+
+a {
+    color: #fff;
+}
+
+a:hover {
+  color: #1DD3B0 !important;
 }
 
 .navbar-collapse {
@@ -89,11 +87,13 @@ p {
     height: 8rem;
     padding-left: 4rem;
 }
+
+
 /*Hero Image */
 
 .hero-image {
     padding: 0;
-    margin-top: 109px;
+    margin-top: 161px;
 }
 
 .jumbotron {
@@ -115,29 +115,8 @@ p {
 }
 
 
-
-/*About Section */
-
-#about {
-    padding: 2rem;
-}
-
-/*Services Section */
-
-#services {
-    padding: 2rem;
-}
-
-/*Testiomonials Section */
-
-#testimonials {
-    padding: 2rem;
-}
-
 /*Contact Section */
 
-#contact {
-    padding: 2rem;
 }
 
 form {
