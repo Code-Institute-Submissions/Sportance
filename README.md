@@ -24,11 +24,6 @@ This website is designed for a variety of users such as athletes, other Sport Ps
 * To gain inspiration for tools and services that they could use with their own clients.
 * To be able to get in contact and ask questions. 
 
-*The Developer*
-
-* I want to combine my interst for Sport Psychology with the new skills that I have learnt such as HTML, CSS and Bootstrap.
-* I want to showcase my skills to future and potential employers.
-* I want to experiment with different layouts and designs to see which is the most effective and inviting for the users.
 
 ### Design 
 1. **Logo** 
@@ -68,7 +63,7 @@ The features that were added to the project were designed to have a high level o
 
 * The logo is wrapped in an anchor tag with the link to the Sportance page. This allows it to be used as a refresh for the page should the user need to.
 * The menu bar at the top will allow the users to easily navigate around the webpage should they chose not to scroll through the whole page to find the section they are looking for. 
-* A menu icon is used in the tablet and phone view so that is does not overcrowd the header and hero image.
+* A menu icon is used in phone view so that is does not overcrowd the header and hero image.
 * A hero image was added to make the webpage inviting to the user and make the website self explanatory.
 * An About section was used to give the user all the information they need about the webpage and its purpose. A sports image was added to this section to keep in with the design of the rest of the webpage and make it more pleasing to view for the users.
 * A services section was used to allow the users to decide whether the services suit their needs and that could be of use to them. This section also allows other Sport Psychology professionals to view what they could potentially add to their services. Images of the types of services were added to tie in with the rest of the webpage.
@@ -109,21 +104,21 @@ The webpage was developed using Gitpod IDE and was commited and pushed to a Gith
 
 1. Go to [Github](https://github.com/) 
 2. Search for [Ted-Williams/Sportance](https://github.com/Ted-Williams/Sportance)
-3. Select settings from the menu at the top of the page.
-4. Scroll down to GitHub Pages section.
-5. Click on the dropdown menu with in the source section and select master branch.
-6. Click save.
+3. Select **settings** from the menu at the top of the page.
+4. Scroll down to **GitHub Pages section**.
+5. Click on the **dropdown menu** with in the source section and **select master branch**.
+6. Click **save**.
 
 The webpage can be found here: [Sportance](https://ted-williams.github.io/Sportance/.)
 
 To create a local respository, follow the steps below:
 
 1. Navigate to [Ted-Williams/Sportance](https://github.com/Ted-Williams/Sportance)
-2. Below the menu click Clone.
-3. Copy the URl using the clipboard to the righthand side.
+2. Below the menu **click Clone**.
+3. Copy the URl using the **clipboard** to the righthand side.
 4. Open you preferred IDE for example Gitpod.
-5. Type git clone into the terminal and paste the respository URl.
-6. Click enter and the clone will be created. 
+5. Type **git clone** into the terminal and paste the respository URl.
+6. **Click enter** and the clone will be created. 
 
 
 
