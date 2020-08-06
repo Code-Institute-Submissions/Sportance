@@ -112,6 +112,8 @@ The features that were added to the project were designed to have a high level o
 
 * The footer consists of links to all sections on the webpage and Sportance’s social media accounts. All links work correctly and take the user to the desired location. All social media links open a new window using ‘target=”blank”’. The social media links disappear when the screen size is below 992px. Also ‘rel=”noopener”’ was added to each social media link to ensure the new page is not able to access the window.opener process. 
 
+* Aria labels have been added to all anchor tags and inputs to ensure there is accessibility for all users. 
+
 ## Deployment
 ---
 
